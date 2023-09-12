@@ -1,5 +1,3 @@
-Here is the README in Markdown format:
-
 # Deploying Llama-2 on RunPod
 
 This repo contains a sample for deploying the [Llama-2](https://github.com/facebookresearch/llama) conversational AI model on [RunPod](https://runpod.io/), to quickly spin up an inference server.
